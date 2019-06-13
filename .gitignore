@@ -1,0 +1,10 @@
+*.so
+build/
+eggs/
+.eggs/
+*.egg-info/
+.cache/
+.pytest_cache/
+tests/__pycache__
+
+weighted_hamming.c
